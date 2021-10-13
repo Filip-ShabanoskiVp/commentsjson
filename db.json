@@ -1,10 +1,7 @@
 
   {
 
-"foods":[
- { "id":1, "name": "Margherita", "type": "Pizza",
-   "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Pizza_Margherita_stu_spivack.jpg/1200px-Pizza_Margherita_stu_spivack.jpg"}
-  ],
+
     
     "foodsComments":[
   {
